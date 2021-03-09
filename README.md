@@ -1,6 +1,6 @@
+<hr>
 <h1>IpSearch</h2>
 <h3>IpSearch is a tool made in Python to query IP</h3>
-<br>
 <h2>Requirements:</h2>
 <h3>Python3 and Pip3</h3>
 <h2>How to use in Debian-based distros:</h2>
@@ -16,3 +16,4 @@ python3 main.py
 <h2>Credits:</h2>
 
 [Near Shelby](https://github.com/nearshelby-yt)
+<hr>
