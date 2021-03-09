@@ -9,6 +9,7 @@
 apt install python -y ; apt install python2 -y ; apt install python3 -y
 apt install python3-pip -y
 pip3 install requests
+git clone https://github.com/Black-Hell-Team/IpSearch/
 cd IpSearch
 python3 main.py
 ```
