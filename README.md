@@ -3,7 +3,6 @@
 <br>
 <h2>Requirements:</h2>
 <h3>Python3 and Pip3</h3>
-<br>
 <h2>How to use in Debian-based distros:</h2>
 
 ```
