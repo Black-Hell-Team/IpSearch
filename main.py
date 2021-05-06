@@ -144,7 +144,7 @@ $$e$P"    $b     d$`    "$$c$F
 66 108 97 99 107  72 101 108 108  84 101 97 109 
 
 \033[1;31mTeam:\033[1;32m Black Hell Team
-\033[1;31mDeveloped by:\033[1;32m Near Shelby (Leader)
+\033[1;31mDeveloped by:\033[1;32m Jo Power Tech (Leader)
 \033[1;31mAPI:\033[1;32m http://ip-api.com/json/?\033[0;0m
 ''')
 
